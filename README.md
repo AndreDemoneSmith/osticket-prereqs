@@ -82,7 +82,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	<img src="https://i.imgur.com/0npbiTj.png" height="75%" width="100%" alt="PHP"/>
 </p>
 <p>
-  Fix any failures if required. 
+  
 </p>
 <p>
   Install PHP Version 7.3.8 (or any other version if necessary, archives).
@@ -278,7 +278,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 <br />
 <p>
-	And there you have it! I hope this tutorial helped you with installing osTicket.
+	I hope this tutorial helped you with installing osTicket.
 </p>
 <p>
 	And now you can practice having your own mock help desk locally to prepare you for a postion in a help desk or IT support position.
