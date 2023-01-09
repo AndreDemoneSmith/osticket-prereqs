@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create Virtual Machine in Azure
 - Install Web Platform Installer
 - Install osTicket v1.15.8
-- Install HeidiSQL
+
 
 
 <h2>Installation Steps</h2>
@@ -74,17 +74,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 <p>
-  Add MySQL 5.5 (it will ask for credentials to be created later).
-</p>
-<p>
-  Name: root
-</p>
-<o>
-  Password: Password1:
-</p>
-<p>
-	<img src="https://i.imgur.com/zdhWXNx.png" height="75%" width="100%" alt="Credentials"/>
-</p>
+ 
 <p>
   Add All simple versions of x86 PHP up until 7.3:
 </p>
